@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\bin\Debug\AdoNetData.exe.config
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\bin\Debug\AdoNetData.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\bin\Debug\AdoNetData.pdb
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\obj\Debug\AdoNetData.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\obj\Debug\AdoNetData.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\obj\Debug\AdoNetData.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetData\AdoNetData\AdoNetData\obj\Debug\AdoNetData.pdb
